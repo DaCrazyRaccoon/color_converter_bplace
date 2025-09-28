@@ -31,6 +31,7 @@ Convert the colors of your images, pixel art or any creation to the available in
 - Contributor: [Autergame](https://github.com/autergame)
 - Color cost display: [derpmagician](https://github.com/derpmagician)
 - Motivational helper: [kromck](https://github.com/kromck)
+- Fork Maintainer: [Raccoon](https://github.com/DaCrazyRaccoon)
 
 ### Translations:
 - Turkish translations: [kedydev](https://github.com/kedydev)
