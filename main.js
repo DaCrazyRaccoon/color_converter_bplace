@@ -103,6 +103,7 @@ const colorNames = {
   "51,57,65": "Dark Slate",
   "109,117,141": "Slate",
   "179,185,209": "Light Slate",
+  "102,204,255": "Light Sky Blue",
   "91,191,185": "Aquamarine",
   "128,0,0": "Maroon",
   "220,20,60": "Crimson",
@@ -171,6 +172,7 @@ const paidColors = new Set([
   "51,57,65",       // Dark Slate
   "109,117,141",    // Slate
   "179,185,209",    // Light Slate
+  "102, 204, 255",  // Light Sky Blue
   "91,191,185",     // Aquamarine
   "128,0,0",        // Maroon
   "220,20,60",      // Crimson
