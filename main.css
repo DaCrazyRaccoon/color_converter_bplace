@@ -95,6 +95,19 @@ main {
 .nav-burger{display:none; background:transparent; border:0; width:40px; height:40px; border-radius:10px}
 .nav-burger span{display:block; height:2px; background:var(--text); margin:6px 8px}
 
+/* Warning Banner */
+.warning-banner{
+  background: linear-gradient(160deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+  box-shadow: var(--shadow);
+  text-align: center;
+  border-bottom:1px solid var(--border);
+}
+
+.warn-link{
+  color:var(--warning);
+  text-decoration:underline
+}
+
 /* Language Selector */
 #lang-select {
   background: #222;
